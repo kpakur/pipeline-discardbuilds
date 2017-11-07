@@ -8,37 +8,37 @@ node {
 
 	stage('A'){
 		echo 'A'
-		sleep(200)
+		sleep(1)
 	}
 
 	stage('A'){
 		echo 'A'
-		sleep(200)
+		sleep(1)
 	}
 
 	stage('A'){
 		echo 'A'
-		sleep(200)
+		sleep(1)
 	}
 
 	stage('A'){
 		echo 'A'
-		sleep(200)
+		sleep(1)
 	}
 
 	stage('A'){
 		echo 'A'
-		sleep(200)
+		sleep(1)
 	}
 
 	stage('A'){
 		echo 'A'
-		sleep(200)
+		sleep(1)
 	}
 
 	stage('A'){
 		echo 'A'
-		sleep(200)
+		sleep(1)
 	}
 
 }
